@@ -1,4 +1,4 @@
-Add Cherry Studio quick-start sectionVX API — Developer Documentation
+VX API — Developer Documentation
 
 OpenAI-compatible API for DeepSeek, Qwen, GLM, Kimi and more. One API key. Many models. 40–70% cheaper than going direct.
 
